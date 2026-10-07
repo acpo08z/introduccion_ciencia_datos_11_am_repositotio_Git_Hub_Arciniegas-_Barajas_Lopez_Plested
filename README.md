@@ -10,4 +10,9 @@ PREGUNTA DE NEGOCIO: ¿Cómo podrían los diarios y medios de información colom
 
 NUESTRA PROPUESTA: En la actualidad, la mayoría de contenido que los periódicos en línea suelen sugerir se basa en lo que esté en tendencia, y se tiende a estandarizar para la mayoría de usuarios (y usuarios no suscritos al medio en sí). Por ello, sería muy útil construir un sistema con un algoritmo más preciso, que con ayuda de la ciencia de datos brinde recomendaciones de artículos y noticias más consistentes con el comportamiento del lector.
 
-OBJETIVOS: 
+FASES: 
+1. Conocer los datos y analizar los patrones de comportamiento de los lectores: Analizando categorías de noticias consultadas, tiempo que permanecen en cada artículo, horarios de búsqueda, frecuencia.
+2. Segmentar a los usuarios: Según sus intereses. Esto con el fin de perfilar a cada uno de los lectores que interactuaron con el medio y que son posibles o habituales consumidores.
+3. Modelo de sistema de recomendación: ¿Qué contenido se le recomendará ahora a cada usuario según su perfil?
+4. Evaluar el impacto: En la experiencia del usuario, evaluar lo que generará el nuevo sistema de recomendación. Se vería en el análisis de factores relacionadas a la experiencia del usuario tras hacer parte del sistema (si el tiempo de lectura aumentó/disminuyó, si cambió de alguna forma las interacciones de los usuarios con en contenido, entre otros factores).
+------
