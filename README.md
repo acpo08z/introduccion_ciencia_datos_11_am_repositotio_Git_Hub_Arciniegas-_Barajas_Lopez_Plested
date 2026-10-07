@@ -16,3 +16,33 @@ FASES:
 3. Modelo de sistema de recomendación: ¿Qué contenido se le recomendará ahora a cada usuario según su perfil?
 4. Evaluar el impacto: En la experiencia del usuario, evaluar lo que generará el nuevo sistema de recomendación. Se vería en el análisis de factores relacionadas a la experiencia del usuario tras hacer parte del sistema (si el tiempo de lectura aumentó/disminuyó, si cambió de alguna forma las interacciones de los usuarios con en contenido, entre otros factores).
 ------
+
+##### 3. Metodologia y Datos
+
+3.1.Datos y variables a utilizar
+
+* Datos de comportamiento e interacción:
+  
+  * **tiempo_lectura**: Tiempo exacto (en segundos) que el usuario dura leyendo un artículo.
+  * **porcentaje_scroll**: Qué tanto baja el usuario en la página para saber si leyó la noticia completa.
+  * **frecuencia_visitas**: Cuántas veces a la semana o al mes entra el lector al periódico.
+  * **horario_acceso**: Horas y días en los que el usuario suele leer noticias.
+
+* Datos del contenido (Metadatos):
+  * **categoria_noticia**: Sección del periódico (Deportes, Política, Economía, Opinión, etc.).
+  * **palabras_clave**: Temas principales y etiquetas asociadas a cada artículo.
+  * **tipo_formato**: Si es una noticia corta, una columna de opinión o un reportaje largo.
+
+* Datos técnicos:
+  * **dispositivo**: Si lee desde un celular, computador o tablet.
+  * **fuente_origen**: Si llegó desde redes sociales, Google o entrando directo a la página.
+
+3.2. Metodología
+El desarrollo del proyecto se hará en los siguientes pasos:
+
+1. Limpieza de datos: Filtrar la información recolectada para eliminar datos incompletos o visitas automáticas de bots.
+2. Análisis de patrones: Revisar los datos para entender qué secciones se leen más según la hora y el tipo de dispositivo.
+3. Creación del sistema de recomendación:
+   * Recomendación por Contenido: Sugerir artículos parecidos en tema a los que el usuario ya leyó anteriormente.
+   * Recomendación colaborativa: Recomendar noticias que hayan leído otros usuarios con gustos similares.
+4. Evaluación del sistema: Medir el éxito del proyecto analizando si aumentó el tiempo que la gente pasa en la página y la cantidad de clics en las recomendaciones.
