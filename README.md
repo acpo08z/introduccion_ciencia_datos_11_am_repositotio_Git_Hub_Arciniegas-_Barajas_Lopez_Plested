@@ -50,3 +50,14 @@ El desarrollo del proyecto se hará en los siguientes pasos:
    * Recomendación por Contenido: Sugerir artículos parecidos en tema a los que el usuario ya leyó anteriormente.
    * Recomendación colaborativa: Recomendar noticias que hayan leído otros usuarios con gustos similares.
 4. Evaluación del sistema: Medir el éxito del proyecto analizando si aumentó el tiempo que la gente pasa en la página y la cantidad de clics en las recomendaciones.
+
+   ------
+### Bibliografía y referencias
+
+1. Libreta de Apuntes. (2026, 16 de junio). La «plataformización» de las noticias en 2026: Una radiografía global y la revolución informativa en Colombia. https://libretadeapuntes.com/digital-news-report-2026-colombia/
+
+2. (Periódicos diarios de Colombia - Colombianos, s/f)
+Periódicos diarios de Colombia - Colombianos. (s/f). Prensaescrita.com. Recuperado el 8 de octubre de 2026, de https://www.prensaescrita.com/america/colombia.php
+
+3. Wiggins, C. (2014). Chris Wiggins: The New York Times. En S. Gutierrez, Data scientists at work (pp. xx-xx). Apress. https://doi.org/10.1007/978-1-4302-6599-8
+
